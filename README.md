@@ -1,4 +1,4 @@
-# Airline-Reservation-System---------------------------------------------------------------------------------------------------
+# Airline-Reservation-System---------------------------------
 Airline Reservation System is software that handles the entire booking data of the Flights. 
 It is fully based on the concept of reserving flight tickets for various destinations. 
 Previously the task of handling the tickets at a time was very difficult,
@@ -8,7 +8,7 @@ the stress and workload of the employee were absolutely finished. It was also ti
 But now it hardly takes 10 to 15 minutes to book a ticket wherever the passenger is.
 
 
-#Features of Airline Reservation System Project in C++ --------------------------------------------------------------------------
+#Features of Airline Reservation System Project in C++ ----------------------------------------------
 > This project can be handled by anyone. Admin rights are not given to anyone.
 > Reservation can be done in a very short period of time.
 > This project also has the facility of canceling the reservation.
@@ -17,7 +17,7 @@ But now it hardly takes 10 to 15 minutes to book a ticket wherever the passenger
 > This software provides can also show the list of reservations done by the passengers.
 > Passengers can also be able to see the status of their reservations.
 
-#Modules of Airline Reservation System Project in C++ ----------------------------------------------------------------------------
+#Modules of Airline Reservation System Project in C++ -----------------------------
 1) Make Reservation.
 2) Cancel Reservation.
 3) Search Passenger.
